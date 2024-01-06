@@ -1,0 +1,38 @@
+@import 'primereact/resources/themes/saga-blue/theme.css';
+@import 'primereact/resources/primereact.min.css';
+@import 'primeicons/primeicons.css';
+
+
+
+
+body{ 
+  background: linear-gradient(to right,#3f5efb,#fc466b);
+  background-repeat: no-repeat;
+  background-attachment:fixed ;
+}
+form {
+  background-color: rgba(62, 48, 48, 0.078);
+  width: 900px;
+  padding: 50px;
+  margin: 50px auto;
+}
+.sub{
+  justify-content: center !important;
+  text-align: center;
+  margin-left: 150px;
+}
+#check{
+  width: 35px !important;
+  height: 30px !important;
+}
+#country{
+  width: 100px !important;
+  height: 30px !important;
+}
+#remark{
+  width: 150px !important;
+  height: 30px !important;
+}
+
+
+
